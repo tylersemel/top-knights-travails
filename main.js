@@ -109,7 +109,7 @@ function bfs(start, end) {
     }
   }
 
-  return visited;
+  return null;
 }
 
 function knightMoves(vertexA, vertexB) {
